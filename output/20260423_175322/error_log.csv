@@ -1,0 +1,9 @@
+﻿RunDate,FileName,RowNumber,InvoiceNumber,ErrorReason,Status
+"2026-04-23 17:53:22
+","bad_file.txt","0","","Unsupported file type","INVALID"
+2026-04-23 17:53:27,invoice_bad_schema.csv,0,,Missing required column: InvoiceNumber,INVALID
+2026-04-23 17:53:29,invoice_batch_001.csv,4,"FV-1003","Missing supplier",INVALID
+2026-04-23 17:53:29,invoice_batch_001.csv,5,"FV-1004","Amount is not numeric",INVALID
+2026-04-23 17:53:29,invoice_batch_001.csv,6,"FV-1005","Amount must be greater than zero",INVALID
+2026-04-23 17:53:32,invoice_batch_002.csv,4,"FV-2002","Duplicate invoice number",INVALID
+2026-04-23 17:53:32,invoice_batch_002.csv,5,"FV-2004","Missing date",INVALID

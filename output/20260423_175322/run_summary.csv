@@ -1,0 +1,4 @@
+﻿RunDate,FileName,TotalRows,ValidRows,InvalidRows,FileStatus
+2026-04-23 17:53:27,invoice_bad_schema.csv,0,0,1,INVALID
+2026-04-23 17:53:29,invoice_batch_001.csv,5,2,3,PARTIAL_OR_INVALID
+2026-04-23 17:53:32,invoice_batch_002.csv,4,2,2,PARTIAL_OR_INVALID

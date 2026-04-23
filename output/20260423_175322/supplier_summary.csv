@@ -1,0 +1,7 @@
+﻿Supplier,InvoiceCount,TotalAmount,AverageAmount,MaxAmount,HighRiskInvoiceCount
+"ABC Sp z o.o.",1,"1250.50","1250.50","1250.50",0
+"XYZ SA",1,"3499.99","3499.99","3499.99",1
+"ABC Sp z o.o.",1,"1250.50","1250.50","1250.50",0
+"XYZ SA",1,"3499.99","3499.99","3499.99",1
+"Northwind",1,"500.00","500.00","500.00",0
+"Contoso",1,"700.25","700.25","700.25",0

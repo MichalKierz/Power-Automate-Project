@@ -1,0 +1,5 @@
+InvoiceNumber,Supplier,Amount,Date
+FV-2001,Northwind,500.00,2025-05-01
+FV-2002,Contoso,700.25,2025-05-02
+FV-2002,Contoso Duplicate,800.00,2025-05-03
+FV-2004,Fabrikam,1200.00,

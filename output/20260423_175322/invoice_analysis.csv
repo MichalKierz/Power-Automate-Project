@@ -1,0 +1,7 @@
+﻿RunDate,FileName,RowNumber,InvoiceNumber,Supplier,Amount,Date,AmountCategory,RiskFlag,AnalysisNote
+2026-04-23 17:53:29,invoice_batch_001.csv,2,"FV-1001","ABC Sp z o.o.","1250.50","2025-04-01","MEDIUM","NO","Standard invoice"
+2026-04-23 17:53:29,invoice_batch_001.csv,3,"FV-1002","XYZ SA","3499.99","2025-04-02","HIGH","YES","High-value invoice"
+2026-04-23 17:53:29,invoice_batch_001.csv,2,"FV-1001","ABC Sp z o.o.","1250.50","2025-04-01","MEDIUM","NO","Standard invoice"
+2026-04-23 17:53:29,invoice_batch_001.csv,3,"FV-1002","XYZ SA","3499.99","2025-04-02","HIGH","YES","High-value invoice"
+2026-04-23 17:53:32,invoice_batch_002.csv,2,"FV-2001","Northwind","500.00","2025-05-01","LOW","NO","Standard invoice"
+2026-04-23 17:53:32,invoice_batch_002.csv,3,"FV-2002","Contoso","700.25","2025-05-02","LOW","NO","Standard invoice"

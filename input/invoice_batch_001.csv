@@ -1,0 +1,6 @@
+InvoiceNumber,Supplier,Amount,Date
+FV-1001,ABC Sp z o.o.,1250.50,2025-04-01
+FV-1002,XYZ SA,3499.99,2025-04-02
+FV-1003,,999.00,2025-04-03
+FV-1004,Test Supplier,abc,2025-04-04
+FV-1005,Negative Supplier,-150,2025-04-05
